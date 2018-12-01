@@ -1,1 +1,39 @@
+html , body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    min-width: 900px;
+    line-height: 14px;
+    font-size: 14px;
 
+
+}
+
+*
+{
+    box-sizing: border-box;
+}
+
+header
+{
+    background-color: #232f3e;
+    height: 99px;
+}
+.nav-left
+{
+    position: relative;
+    float: left;
+    width: auto;
+    display: block;
+}.nav-right
+{
+    position: relative;
+    float: right;
+    width: auto;
+    display: block;
+}
+.nav-fill
+{
+    width: auto;
+    white-space: nowrap;
+    overflow: hidden;
+}
