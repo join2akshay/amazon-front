@@ -37,3 +37,29 @@ header
     white-space: nowrap;
     overflow: hidden;
 }
+#nav-logo
+{
+    padding: 11px 18px 0px 0px;
+    position: relative;
+    width: 192px;
+}
+
+#nav-logo .nav-logo-link img
+{
+    background: transparent no-repeat top ;
+    background-size: 102px;
+    width: 192px;
+    height: 32px;
+    display: block;
+}
+
+#nav-logo .nav-logo-tagline
+{
+    color: #48a3c6;
+    position: absolute;
+    top: 31px;
+    left: 90px;
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 700;
+}
