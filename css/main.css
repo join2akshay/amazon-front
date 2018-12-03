@@ -63,3 +63,16 @@ header
     line-height: 11px;
     font-weight: 700;
 }
+
+#nav-logo .nav-logo-tagline:hover
+{
+    color: #ffffff;
+}
+#nav-holiday
+{
+    top: 9px;
+    float: right;
+    position: relative;
+    width: 400px;
+    height: 39px;
+}
